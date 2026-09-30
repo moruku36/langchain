@@ -1,3 +1,11 @@
+# LangChain
+
+[English](README.md) | [日本語](README.ja.md)
+
+A framework for composing language-model applications with prompts, models, retrieval, chains, and tools.
+
+---
+
 # 🦜️🔗 LangChain
 
 ⚡ Building applications with LLMs through composability ⚡
